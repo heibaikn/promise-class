@@ -1,0 +1,19 @@
+{
+  "name": "promise-class",
+  "version": "1.0.0",
+  "description": "a simple wraper of promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heibaikn/promise-class.git"
+  },
+  "author": "fanxuchao,downing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heibaikn/promise-class/issues"
+  },
+  "homepage": "https://github.com/heibaikn/promise-class#readme"
+}
